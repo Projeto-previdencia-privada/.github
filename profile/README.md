@@ -5,7 +5,7 @@
 
 Um dos nossos clientes, que opera um regime próprio de previdência, nos solicitou um novo sistema para gerenciar algumas de suas operações. Este sistema é composto pelos seguintes serviços:
 
-1. [**Gestão de Contribuintes**](https://github.com/Projeto-previdencia-privada/Gestao-Contribuintes)
+1. [**Gestão de Contribuintes**](https://github.com/Projeto-previdencia-privada/Gestao-Contribuinte)
 
 2. [**Gestão de Contribuições**](https://github.com/Projeto-previdencia-privada/Gestao-Contribuicao)
 
