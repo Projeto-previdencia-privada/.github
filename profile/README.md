@@ -12,6 +12,8 @@ Um dos nossos clientes, que opera um regime próprio de previdência, nos solici
 3. [**Gestão de Benefícios**](https://github.com/Projeto-previdencia-privada/Gestao-Beneficios)
 
 4. [**Gestão de Empréstimos**](https://github.com/Projeto-previdencia-privada/Gestao-Emprestimos)
+   
+5. [**Footer e Header padrão do projeto**](https://github.com/Projeto-previdencia-privada/Footer-Header-Padrao)
 
 Cada serviço é independente, possui sua própria infraestrutura, e se comunica com os demais por meio de APIs.
 
