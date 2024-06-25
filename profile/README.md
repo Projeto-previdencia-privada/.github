@@ -27,8 +27,8 @@ Cada serviço possui um README.md específico com instruções detalhadas sobre 
 - o sistema permite a geração de árvores genealógicas.
 
 <h3 align="center">2. Gestão de Contribuicao</h3>
-- Gerenciamento das categorias de contribuintes por meio da API
-- Correção de contribuições referentes a meses ou anos anteriores, considerando o percentual do salário mínimo à época e o valor vigente no momento do registro
+- Gerenciamento das categorias de contribuintes por meio da API.
+- Valor Corrigido de contribuições referentes a meses ou anos anteriores, considerando o percentual do salário mínimo à época e o valor vigente no momento do registro
 
 <h3 align="center">3. Gestão de Benefícios</h3>
 
